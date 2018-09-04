@@ -2,10 +2,17 @@
 
 In this class, the goals are to learn how to write a parallel program using Hadoop & Spark framework for processing big data and to learn the fundamentals of data mining / machine learning techniques. It will be organized in a format called problem-based larning (PBL). The students are supposed to tackle three problems designed to study some practical and useful techniques such as Spark programming, machine learning (classification or regression) and association rule mining.
 
-Students should be familiar to programming with JAVA and Python.
+IMPORTANT: Students should be familiar to programming with JAVA and Python.
 
-Instructor: Younghoon Kim (nongaussian@gmail.com)
-TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
+Our goals are to get skillful for handling the following techniques:
+1) Handling (very) large databases
+2) Mapreduce paradigm for programming in parallel
+3) Data preprocessing for analysis
+4) Supervised and unsupervised machine learning techniques
+5) Prediction and evaluation of the performance
+
+* Instructor: Younghoon Kim (nongaussian@gmail.com)
+* TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Introduction to the class
 
