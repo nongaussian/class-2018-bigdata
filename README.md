@@ -24,4 +24,4 @@ If any question, contact
 
 ## Introduction to the class (Sep 6)
 
-Refer to the slides 'classinfo/Module0_class.pptx'
+Refer to the slides 'classinfo/Module0_intro.pdf'
