@@ -11,11 +11,17 @@ Our goals are to get skillful for handling the following techniques:
 4) Supervised and unsupervised machine learning techniques
 5) Prediction and evaluation of the performance
 
+If any question, contact
 * Instructor: Younghoon Kim (nongaussian@gmail.com)
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
-## Introduction to the class
+## Tentative schedule
+
+* Problem 0: Warming-up (Sep 13): a simple problem to encourage your teamwork
+* Problem 1: Processing bigdata with Spark (Sep 20 - Oct 4)
+* Problem 2: Financial product recommendation (Oct 11 - ?)
+* Problem 3: Market basket analysis (? - ?)
+
+## Introduction to the class (Sep 6)
 
 Refer to the slides 'classinfo/Module0_class.pptx'
-
-## Problem 0: Warming-up
