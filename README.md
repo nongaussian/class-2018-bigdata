@@ -15,6 +15,10 @@ If any question, contact
 * Instructor: Younghoon Kim (nongaussian@gmail.com)
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
+## Notice!
+* A list of team members and team leader (Sep 13)
+* Your github account (username) (Sep 13)
+
 ## Tentative schedule
 
 * Problem 0: Warming-up (Sep 13): a simple problem to encourage your teamwork
