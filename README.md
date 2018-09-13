@@ -21,9 +21,10 @@ If any question, contact
 
 ## Tentative schedule
 
-* Problem 0: Warming-up (Sep 13): a simple problem to encourage your teamwork
-* Problem 1: Processing bigdata with Spark (Sep 20 - Oct 4)
-* Problem 2: Financial product recommendation (Oct 11 - ?)
+* Warming-up 1 (Sep 13): a simple problem to encourage your teamwork
+* Warming-up 2 (Sep 20): implementing closest pair algorithm
+* Problem 1: Processing bigdata with Spark (Sep 27 - Oct 11)
+* Problem 2: Financial product recommendation (Oct 18 - ?)
 * Problem 3: Market basket analysis (? - ?)
 
 ## Introduction to the class (Sep 6)
