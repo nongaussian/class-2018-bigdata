@@ -16,11 +16,10 @@ If any question, contact
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Notice!
-* A list of team members and team leader (Sep 13)
-* Your github account (username) (Sep 13)
+* Let TA know your team leader (Sep 20)
+* Bring your laptop (Sep 20)
 
 ## Tentative schedule
-
 * Warming-up 1 (Sep 13): a simple problem to encourage your teamwork
 * Warming-up 2 (Sep 20): implementing closest pair algorithm
 * Problem 1: Processing bigdata with Spark (Sep 27 - Oct 11)
