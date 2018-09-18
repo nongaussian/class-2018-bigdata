@@ -16,7 +16,7 @@ If any question, contact
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Notice!
-* Let TA know your team leader (Sep 20)
+* Let TA know your team leader (Sep 20) -> Your team leader is supposed to submit the result in each module.
 * Bring your laptop (Sep 20)
 
 ## Tentative schedule
