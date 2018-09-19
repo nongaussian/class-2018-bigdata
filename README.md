@@ -21,8 +21,8 @@ If any question, contact
 
 ## How to submit your result
 * Zip source code and output (if any) files
-* Attach to an email and send to TA (woongheelee@hanyang.ac.kr)
-* Email title: *[BigData] Module x Team y*
+* Attach to an email and send it to TA (woongheelee@hanyang.ac.kr)
+* Email title: *[BigData] Team y*
 * You can send emails multiple times until the due and the last submission will be evaluated
 
 ## Tentative schedule
