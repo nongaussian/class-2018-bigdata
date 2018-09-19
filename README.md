@@ -22,12 +22,12 @@ If any question, contact
 ## How to submit your result
 * Zip source code and output (if any) files
 * Attach to an email and send it to TA (woongheelee@hanyang.ac.kr)
-* Email title: *[BigData] Team y*
+* Email title: *[BigData] Team x*
 * You can send emails multiple times until the due and the last submission will be evaluated
 
 ## Tentative schedule
-* Warming-up 1 (Sep 13): a simple problem to encourage your teamwork
-* Warming-up 2 (Sep 20): tackling smallest triangle problem
+* Warming-up 1 (Sep 13): a simple problem to encourage your teamwork -> Due: 2:30pm Sep 13
+* Warming-up 2 (Sep 20): tackling smallest triangle problem -> Due: 11:59pm Sep 20
 * Problem 1: Processing bigdata with Spark (Sep 27 - Oct 11)
 * Problem 2: Financial product recommendation (Oct 18 - ?)
 * Problem 3: Market basket analysis (? - ?)
