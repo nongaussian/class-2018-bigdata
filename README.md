@@ -32,6 +32,11 @@ If any question, contact
 * Problem 2: Financial product recommendation (Oct 18 - ?)
 * Problem 3: Market basket analysis (? - ?)
 
+## Grading ratio
+* 1 warming-up problem (warming-up 2: smallest triangle) * 5 points (pass/fail)
+* 3 problems * 25 points (competition)
+* Final exam * 20 points
+
 ## Introduction to the class (Sep 6)
 
 Refer to the slides 'classinfo/Module0_intro.pdf'
