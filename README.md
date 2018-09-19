@@ -29,3 +29,11 @@ If any question, contact
 ## Introduction to the class (Sep 6)
 
 Refer to the slides 'classinfo/Module0_intro.pdf'
+
+## Warming-up problem 1: paper bridge (Sep 13)
+
+Refer to the slides 'warming-up-module1.pdf'
+
+## Warming-up problem 2: smallest triangle (Sep 20)
+
+Refer to the sildes 'warming-up-module2.pdf'
