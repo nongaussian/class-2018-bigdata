@@ -114,7 +114,7 @@ public class ClosestPair {
 		int divide_index = N / 2;
 
 		List<Point> xL = xP.subList(0, divide_index);
-		List<Point> xR = xP.subList(divide_index, N);
+		List<Point> xR = xP.subList(divide_index+1, N);
 		double xm = xR.get(0).x;
 
 		List<Point> yL = new ArrayList<Point>(xL);
@@ -159,7 +159,7 @@ public class ClosestPair {
 			BufferedReader in = new BufferedReader(new FileReader(path));
 			String s;
 			while ((s = in.readLine()) != null) {
-				String[] line = s.split("\t");
+				String[] line = s.split(",");
 				if (line.length < 2)
 					continue;
 				int index = Integer.parseInt(line[0]);

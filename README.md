@@ -48,3 +48,7 @@ Refer to the slides 'warming-up-module1.pdf'
 ## Warming-up problem 2: smallest triangle (Sep 20)
 
 Refer to the sildes 'warming-up-module2.pdf'
+
+## Problem 1: recommendation of friends in social netwroks (Sep 27)
+
+Refer to the slides 'problem1/Module1_problem.pdf'
