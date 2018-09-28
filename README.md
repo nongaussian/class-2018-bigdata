@@ -16,8 +16,8 @@ If any question, contact
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Notice!
-* Let TA know your team leader (Sep 20) -> Your team leader is supposed to submit the result in each module.
-* Bring your laptop (Sep 20)
+* Let TA know your team leader (Oct 4) -> Your team leader is supposed to submit the result in each module.
+* Prepare your early presentation with slides (Oct 4)
 
 ## How to submit your result
 * Zip source code and output (if any) files
@@ -49,6 +49,9 @@ Refer to the slides 'warming-up-module1.pdf'
 
 Refer to the sildes 'warming-up-module2.pdf'
 
-## Problem 1: recommendation of friends in social netwroks (Sep 27)
+## Problem 1: recommendation of friends in social netwroks (Sep 27 - Oct 11)
 
-Refer to the slides 'problem1/Module1_problem.pdf'
+* Problem definition: refer to the slides 'problem1/Module1_problem.pdf'
+* Early presentation - 10min / team (Oct 4)
+* Final presentation - 15min / team (Oct 11)
+* Submission timeline - 11:59pm Oct 12 (Fri)
