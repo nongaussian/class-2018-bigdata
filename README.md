@@ -49,7 +49,7 @@ Refer to the slides 'warming-up-module1.pdf'
 
 Refer to the sildes 'warming-up-module2.pdf'
 
-## Problem 1: recommendation of friends in social netwroks (Sep 27 - Oct 11)
+## Problem 1: recommendation of friends in social networks (Sep 27 - Oct 11)
 
 * Problem definition: refer to the slides 'problem1/Module1_problem.pdf'
 * Early presentation - 10min / team (Oct 4)
