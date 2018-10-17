@@ -55,3 +55,7 @@ Refer to the sildes 'warming-up-module2.pdf'
 * Early presentation - 10min / team (Oct 4)
 * Final presentation - 15min / team (Oct 11)
 * Submission timeline - 11:59pm Oct 12 (Fri)
+
+## Problem 2: estimation of the chance that a customer purchases financial product in a bank (Oct 18 - Nov 1)
+
+* Problem definition: refer to the slides 'problem2/Module2_problem.pdf'
