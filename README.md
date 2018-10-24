@@ -60,5 +60,5 @@ Refer to the sildes 'warming-up-module2.pdf'
 
 * Problem definition: refer to the slides 'problem2/Module2_problem.pdf'
 * Early presentation - 10min / team (Oct 25)
-* Final presentation - 15min / team (Nov 11)
-* Submission timeline - 11:59pm Nov 12 (Fri)
+* Final presentation - 15min / team (Nov 1)
+* Submission timeline - 11:59pm Nov 2 (Fri)
