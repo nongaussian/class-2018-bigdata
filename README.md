@@ -60,5 +60,7 @@ Refer to the sildes 'warming-up-module2.pdf'
 
 * Problem definition: refer to the slides 'problem2/Module2_problem.pdf'
 * Early presentation - 10min / team (Oct 25)
+ - Data transformation for the prediction
+ - Tools or algorithms you want to use for the prediction
 * Final presentation - 15min / team (Nov 8)
 * Submission timeline - 11:59pm Nov 9 (Fri)
