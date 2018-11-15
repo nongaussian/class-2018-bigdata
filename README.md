@@ -65,14 +65,14 @@ Refer to the sildes 'warming-up-module2.pdf'
 * Final presentation - 15min / team (Nov 8)
 * Submission timeline - 11:59pm Nov 9 (Fri)
 
-# Problem 3: recommendation based on the items in a basket for online shopping malls (Nov 15 - Nov 29)
+## Problem 3: recommendation based on the items in a basket for online shopping malls (Nov 15 - Nov 29)
 
 * Problem definition: refer to the slides 'problem3/module3_problem.pdf'
 * Early prentation - 10min / team (Nov 22)
 * Final presentation - 15min / team (Nov 29)
 * Submission timeline - 11:59pm Nov 30 (Fri)
 
-# Final Exam
+## Final Exam
 
 * Review: Dec 6
 * Final exam: Dec 13
