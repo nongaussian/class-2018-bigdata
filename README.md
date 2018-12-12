@@ -16,8 +16,7 @@ If any question, contact
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr)
 
 ## Notice!
-* Let TA know your team leader (Oct 4) -> Your team leader is supposed to submit the result in each module.
-* Prepare your early presentation with slides (Oct 4)
+* Final exam: when? 10:00am ~ 11:30am, Dec 13 where? our regular class room
 
 ## How to submit your result
 * Zip source code and output (if any) files
